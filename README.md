@@ -46,6 +46,7 @@ Pertimbangkan moda transportasi alternatif selama dini hari untuk menghindari ta
 
 <h2>Struktur Repositori</h2><br>
 data/ - Berisi file data mentah yang digunakan untuk analisis<br>
+*untuk file data harap dibuka di Google Collab supaya hasil visualnya dapat ditampilkan juga.<br>
 notebooks/ - Notebook Jupyter yang memuat pembersihan data, EDA (Exploratory Data Analysis), dan visualisasi<br>
 charts/ - Gambar visualisasi utama yang digunakan dalam laporan <br>
 README.md - Dokumentasi proyek
